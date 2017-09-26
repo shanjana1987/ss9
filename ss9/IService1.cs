@@ -16,6 +16,7 @@ namespace ss9
         [OperationContract]
         double Add(double a, double b);
 
+
         [OperationContract]
         double Subtract(double a, double b);
         [OperationContract]
